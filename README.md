@@ -23,8 +23,12 @@ Asimismo se han creado algunos recursos (libros, principalmente) para servir de 
 
 La anatomía de una referencia a un recurso concreto es la siguiente:
 
-  * `(formato) [Título_del_recurso](http://enlace-corto-al-recurso), Autor (año_de_publicación). **`Etiqueta-1`** **`Etiqueta-2`** **`Etiqueta-3`**`  
-    * ` "*Comentario, nota o reseña del creador del recurso.*" **@nickcolaborador**.`
+```
+* (formato) [Título_del_recurso](http://enlace-corto-al-recurso), Autor (año_de_publicación).   
+  * **`Etiqueta-1`** **`Etiqueta-2`** **`Etiqueta-3`**
+  * "*Comentario, nota o reseña del creador del recurso.*" **@nickcolaborador**.
+```
+
 
   Donde:  
   * `(formato)` es el tipo de recurso como:
@@ -41,7 +45,8 @@ La anatomía de una referencia a un recurso concreto es la siguiente:
   * `**@nickcolaborador**` el nick del colaborador en precedido por el símbolo `@` tal y como lo haríamos al mencionarlo en los comentarios. Escrito tras el punto seguido del comentario. Este párrafo se cierra con un punto final.
 
 ## Ejemplo de referencia formateada
-* (libro) [Storytelling with Data: A Data Visualization Guide for Business Professionals](http://bit.ly/bsd-storytellingdata), Cole Nussbaumer Knaflic. (2015). **`Visualización`** **`Storytelling`**
+* (libro) [Storytelling with Data: A Data Visualization Guide for Business Professionals](http://bit.ly/bsd-storytellingdata), Cole Nussbaumer Knaflic. (2015).
+  * **`Visualización`** **`Storytelling`**
   * "*El primer paso, inexcusable, para evitar hacer disparates en tus visualizaciones*" **@miguelmcolon**.
 
 ## Gracias por colaborar!
