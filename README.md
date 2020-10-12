@@ -36,8 +36,12 @@ La anatomía de una referencia a un recurso concreto es la siguiente:
   * `[Título_del_recurso](http://enlace-corto-al-recurso)` es, obviamente, el título del recurso con un enlace opcional a su descarga (en caso de recursos libres) o a la página de un proveedor.
   * `Autor` Aquí se incluye el nombre del autor completo y en el caso de varios autores se utilizará el nombre del primer autor seguido de la expresión *et al.*
   * `(año_de_publicación)` el año de publicación en formato AAAA, por ejemplo (2020). Esta primera línea de la referencia al recurso se cierra con un punto y seguido.
-  * `**Etiqueta**` son etiquetas que califican el recurso. Su uso es libre aunque la preferencia es que sus nombres sean cortos y no se abuse de ellas. Por ejemplo se usará la etiqueta **`Big Data`** sólo en los casos en que el concepto de Big Data sea específicamente importante en la calificación del recurso para evitar el riesgo de *sobre-etiquetar* (Si una etiqueta se repite excesivamente pierde su función principal de caracterizar y diferenciar el recurso). Se incluye un breve [muestrario de etiquetas](https://github.com/lamaquinadetrinos/ads-bibliography/architectural-data-science-bibliography#muestra-de-etiquetas)
+  * `**Etiqueta**` son etiquetas que califican el recurso. Su uso es libre aunque la preferencia es que sus nombres sean cortos y no se abuse de ellas. Por ejemplo se usará la etiqueta **`Big Data`** sólo en los casos en que el concepto de Big Data sea específicamente importante en la calificación del recurso para evitar el riesgo de *sobre-etiquetar* (Si una etiqueta se repite excesivamente pierde su función principal de caracterizar y diferenciar el recurso). Se incluye un breve [muestrario de etiquetas](https://github.com/lamaquinadetrinos/ads-bibliography/blob/main/bibliography/Architectural%20Data%20Science%20Bibliography.md#muestra-de-etiquetas-bookmark)
   * `"*Comentario, nota o reseña del creador del recurso*"` es la parte más importante de este trabajo. La propuesta de un recurso interesante está atada a la explicación del colaborador sobre los aspectos que le empujaron a confirmar la utilidad de ese recurso. No se trata de explicar qué aprendió uno sino el *click* mental que hizo con ese material.
   * `**@nickcolaborador**` el nick del colaborador en precedido por el símbolo `@` tal y como lo haríamos al mencionarlo en los comentarios. Escrito tras el punto seguido del comentario. Este párrafo se cierra con un punto final.
 
-## Gracias
+## Ejemplo de referencia formateada
+* (libro) [Storytelling with Data: A Data Visualization Guide for Business Professionals](http://bit.ly/bsd-storytellingdata), Cole Nussbaumer Knaflic. (2015). **`Visualización`** **`Storytelling`**
+  * "*El primer paso, inexcusable, para evitar hacer disparates en tus visualizaciones*" **@miguelmcolon**.
+
+## Gracias por colaborar!
